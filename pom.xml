@@ -12,6 +12,7 @@
         <version>2.2.2.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.spring</groupId>
     <artifactId>pet-clinic</artifactId>
     <version>0.0.3-SNAPSHOT</version>
